@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2_Authentication", "WebApi2_Authentication\WebApi2_Authentication.csproj", "{47668735-E896-4618-9FD3-6DDF85676517}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{864CE6A3-257E-40D8-AEE7-EC5548E67868}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "certificates", "certificates", "{C35C267A-1187-48C0-8AFE-80F9F890E9B6}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Temp\Certificates\as.local.cer = D:\Temp\Certificates\as.local.cer
+		D:\Temp\Certificates\as.local.pfx = D:\Temp\Certificates\as.local.pfx
+		D:\Temp\Certificates\as.local.pvk = D:\Temp\Certificates\as.local.pvk
+		D:\Temp\Certificates\clientssl.local.cer = D:\Temp\Certificates\clientssl.local.cer
+		D:\Temp\Certificates\clientssl.local.pfx = D:\Temp\Certificates\clientssl.local.pfx
+		D:\Temp\Certificates\clientssl.local.pvk = D:\Temp\Certificates\clientssl.local.pvk
+		D:\Temp\Certificates\DevRoot.cer = D:\Temp\Certificates\DevRoot.cer
+		D:\Temp\Certificates\DevRoot.pfx = D:\Temp\Certificates\DevRoot.pfx
+		D:\Temp\Certificates\DevRoot.pvk = D:\Temp\Certificates\DevRoot.pvk
+		D:\Temp\Certificates\web.local.cer = D:\Temp\Certificates\web.local.cer
+		D:\Temp\Certificates\web.local.pfx = D:\Temp\Certificates\web.local.pfx
+		D:\Temp\Certificates\web.local.pvk = D:\Temp\Certificates\web.local.pvk
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X509CertificateProject", "X509CertificateProject\X509CertificateProject.csproj", "{B44068C2-D77D-49B0-9C23-9065F470EB63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAuthentication", "WindowsAuthentication\WindowsAuthentication.csproj", "{76B68236-BCC4-4D51-9FC4-6CD74688C978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthentication", "BasicAuthentication\BasicAuthentication.csproj", "{DF1FFC51-5E28-46A6-A2CC-37CF34DB4678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X509CertificateAuthentication", "X509CertificateAuthentication\X509CertificateAuthentication.csproj", "{F4D28FE2-1357-4B68-869E-27B113B8999B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserBasedAuthentication", "BrowserBasedAuthentication\BrowserBasedAuthentication.csproj", "{5CB6B23F-35D2-4B68-99C0-E16A207B05FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47668735-E896-4618-9FD3-6DDF85676517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47668735-E896-4618-9FD3-6DDF85676517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47668735-E896-4618-9FD3-6DDF85676517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47668735-E896-4618-9FD3-6DDF85676517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44068C2-D77D-49B0-9C23-9065F470EB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44068C2-D77D-49B0-9C23-9065F470EB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44068C2-D77D-49B0-9C23-9065F470EB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44068C2-D77D-49B0-9C23-9065F470EB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B68236-BCC4-4D51-9FC4-6CD74688C978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B68236-BCC4-4D51-9FC4-6CD74688C978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B68236-BCC4-4D51-9FC4-6CD74688C978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B68236-BCC4-4D51-9FC4-6CD74688C978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1FFC51-5E28-46A6-A2CC-37CF34DB4678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1FFC51-5E28-46A6-A2CC-37CF34DB4678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1FFC51-5E28-46A6-A2CC-37CF34DB4678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1FFC51-5E28-46A6-A2CC-37CF34DB4678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D28FE2-1357-4B68-869E-27B113B8999B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D28FE2-1357-4B68-869E-27B113B8999B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D28FE2-1357-4B68-869E-27B113B8999B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D28FE2-1357-4B68-869E-27B113B8999B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB6B23F-35D2-4B68-99C0-E16A207B05FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB6B23F-35D2-4B68-99C0-E16A207B05FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB6B23F-35D2-4B68-99C0-E16A207B05FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB6B23F-35D2-4B68-99C0-E16A207B05FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C35C267A-1187-48C0-8AFE-80F9F890E9B6} = {864CE6A3-257E-40D8-AEE7-EC5548E67868}
+	EndGlobalSection
+EndGlobal

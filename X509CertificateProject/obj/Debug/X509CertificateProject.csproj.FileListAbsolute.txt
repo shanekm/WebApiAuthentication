@@ -1,0 +1,5 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebApi2_Authentication\X509CertificateProject\bin\Debug\X509CertificateProject.exe.config
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebApi2_Authentication\X509CertificateProject\bin\Debug\X509CertificateProject.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebApi2_Authentication\X509CertificateProject\bin\Debug\X509CertificateProject.pdb
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebApi2_Authentication\X509CertificateProject\obj\Debug\X509CertificateProject.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\WebApi2_Authentication\X509CertificateProject\obj\Debug\X509CertificateProject.pdb
